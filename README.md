@@ -1,14 +1,14 @@
 # Chain of Responsibility
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=com.github.mcallitea%3Acor&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=com.github.mcallitea%3Acor)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mcallitea_ChainOfResponsibility&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=mcallitea_ChainOfResponsibility)
 
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=com.github.mcallitea%3Acor&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=com.github.mcallitea%3Acor)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=com.github.mcallitea%3Acor&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=com.github.mcallitea%3Acor)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=com.github.mcallitea%3Acor&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=com.github.mcallitea%3Acor)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=mcallitea_ChainOfResponsibility&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=mcallitea_ChainOfResponsibility)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=mcallitea_ChainOfResponsibility&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=mcallitea_ChainOfResponsibility)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=mcallitea_ChainOfResponsibility&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=mcallitea_ChainOfResponsibility)
 
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=com.github.mcallitea%3Acor&metric=bugs)](https://sonarcloud.io/summary/new_code?id=com.github.mcallitea%3Acor)
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=com.github.mcallitea%3Acor&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=com.github.mcallitea%3Acor)
-[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=com.github.mcallitea%3Acor&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=com.github.mcallitea%3Acor)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=mcallitea_ChainOfResponsibility&metric=bugs)](https://sonarcloud.io/summary/new_code?id=mcallitea_ChainOfResponsibility)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=mcallitea_ChainOfResponsibility&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=mcallitea_ChainOfResponsibility)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=mcallitea_ChainOfResponsibility&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=mcallitea_ChainOfResponsibility)
 
 ## Intent
 
